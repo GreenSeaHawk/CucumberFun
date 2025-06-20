@@ -10,6 +10,7 @@ Git Ignore
 
 !.gitignore
 !.scalafmt.conf
+allure-results/*
 bin
 .bloop/
 .cache
